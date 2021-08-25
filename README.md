@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there 👋, I am Yajana 🧑🏻‍💻
+
+Software Developer working on React / React Native
+
+<a href="https://yajanarao.medium.com">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://twitter.com/yajanarao">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yajanarao">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 **YajanaRao/yajanarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
