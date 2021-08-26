@@ -2,13 +2,13 @@
 
 Software Developer working on React / React Native
 
-<a href="https://yajanarao.medium.com">
+<a href="https://yajanarao.medium.com" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://twitter.com/yajanarao">
+<a href="https://twitter.com/yajanarao" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/yajanarao">
+<a href="https://www.linkedin.com/in/yajanarao" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
