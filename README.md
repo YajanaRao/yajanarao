@@ -1,4 +1,4 @@
-## Hi there 👋, I am Yajana N Rao🧑🏻‍💻
+## Hi there 👋, I am Yajana 🧑🏻‍💻
 
 Software Developer working on React / React Native
 
