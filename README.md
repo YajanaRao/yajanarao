@@ -12,7 +12,11 @@ Software Developer working on React / React Native
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
+
 <!--
+![Twitter Follow](https://img.shields.io/twitter/follow/YajanaRao?style=social)
+
 **YajanaRao/yajanarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
