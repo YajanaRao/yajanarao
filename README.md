@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Yajana 🧑🏻‍💻
 
-Software Developer working on React / React Native
+Software engineer 🧑🏻‍💻 | an aspiring Yogi 🧘 | Writer 👉🏻 yajanarao.github.io
 
 <a href="https://yajanarao.medium.com" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
